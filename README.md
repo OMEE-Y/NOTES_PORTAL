@@ -1,6 +1,6 @@
-# NOTES_PORTAL
+# NOTES PORTAL 📚
 
-📚 **Notes Portal** – A simple and user-friendly website designed to help students access **previous year question papers** and **study notes** easily.  
+ A simple and user-friendly website designed to help students access **previous year question papers** and **study notes** easily.  
 
 Built using **HTML**, **CSS**, and **JavaScript**, this platform aims to support juniors by making academic resources organized and accessible online.
 
