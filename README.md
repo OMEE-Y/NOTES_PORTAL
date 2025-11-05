@@ -5,7 +5,7 @@
 Built using **HTML**, **CSS**, and **JavaScript**, this platform aims to support juniors by making academic resources organized and accessible online.
 
 ### 🔗 Live Website:
-[Click here to visit NOTES_PORTAL](https://omee-69.github.io/NOTES_PORTAL/)
+[Click here to visit NOTES_PORTAL](https://OMEE-Y.github.io/NOTES_PORTAL/)
 
 ---
 
